@@ -1281,10 +1281,10 @@ body {
     }
 }
 body {
-    background-color: #000;
-    background-image: url("../../images/background.jpg");
+    background-color: #ffffff;
+/*     background-image: url("../../images/background.jpg");
     background-size: cover;
-    background-position: top center;
+    background-position: top center; */
 }
 body.is-loading *,
 body.is-loading *:before,
